@@ -1,6 +1,6 @@
 ### Get Started
 
-- I wrote an Flask application to accomplish tasks provided by Scorp.
+- Flask application is coded to accomplish tasks provided by Scorp.
 - If venv which is inside the project is activated there is no need to install any dependencies otherwise following dependencies must be installed
 
     `pip install mysql-connector-python`
